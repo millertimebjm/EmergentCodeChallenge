@@ -1,0 +1,9 @@
+C:\Users\miller\source\repos\Emergent\Emergent.Software\bin\Debug\netcoreapp3.1\Emergent.Software.deps.json
+C:\Users\miller\source\repos\Emergent\Emergent.Software\bin\Debug\netcoreapp3.1\Emergent.Software.dll
+C:\Users\miller\source\repos\Emergent\Emergent.Software\bin\Debug\netcoreapp3.1\Emergent.Software.pdb
+C:\Users\miller\source\repos\Emergent\Emergent.Software\obj\Debug\netcoreapp3.1\Emergent.Software.csproj.AssemblyReference.cache
+C:\Users\miller\source\repos\Emergent\Emergent.Software\obj\Debug\netcoreapp3.1\Emergent.Software.AssemblyInfoInputs.cache
+C:\Users\miller\source\repos\Emergent\Emergent.Software\obj\Debug\netcoreapp3.1\Emergent.Software.AssemblyInfo.cs
+C:\Users\miller\source\repos\Emergent\Emergent.Software\obj\Debug\netcoreapp3.1\Emergent.Software.csproj.CoreCompileInputs.cache
+C:\Users\miller\source\repos\Emergent\Emergent.Software\obj\Debug\netcoreapp3.1\Emergent.Software.dll
+C:\Users\miller\source\repos\Emergent\Emergent.Software\obj\Debug\netcoreapp3.1\Emergent.Software.pdb
